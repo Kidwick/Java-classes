@@ -1,1 +1,1 @@
-# Java-classes
+This program shows how to create and use an interface in Java. The TBike class implements the Bike interface by defining its own versions of the start() and stop() methods. This setup makes the code more flexible and scalable since i can easily add more bike types, each with its own unique behavior.
